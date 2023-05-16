@@ -1,1 +1,1 @@
-print('Как дела мой друг?')
+print('Moin moin')
